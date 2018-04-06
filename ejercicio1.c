@@ -4,7 +4,7 @@ int main ()
 	float c1, c2, c3, promedio;
 	int matricula;
 	
-	printf("Ingrese Matricula: ");
+	printf("Ingrese Matricula:\n ");
 	scanf("%d", &matricula);
 	printf ("Ingrese c1: ");
 	scanf ("%f", &c1);
