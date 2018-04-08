@@ -1,0 +1,85 @@
+Guía 1 soluciones algorítmicas
+
+ Ejercicio 1:
+1)Declarar tres variable de tipo int.
+2)Ingresar por pantalla el numero de matricula.
+3)Recibir y guardar los datos de las calificaciones y matricula.
+4)Determinar promedio como la suma de todas las calificaciones dividido en tres.
+5)Se returna 0.
+
+ Ejercicio 2:
+1)Declarar tres variables de tipo int.
+2)Recibir y guardar 
+3)Declara como variable que cuadrado es igual a numero por numero.
+4)Imprimir la variable.
+5)Determinar como variable que cubo es igual a numero por numero por numero.
+6)Imprimir la variable.
+7)Se returna 0.
+ 
+ Ejercicio 3:
+1)Declarar 3 variables de tipo int.
+2)Recibir
+3)Guardar datos
+4)Determinar la variable calculo_hipotenusa como a por a mas b por b.
+5)Imprimir la variable.
+6)Se returna 0.
+
+ Ejercicio 4:
+1)Declarar cuatro variables de tipo float. 
+2)Recibir y guardar datos
+3)Calcular la variable superficie como base por altura.
+4)Calcular la variable perimetro como dos por base mas altura.
+5)Imprimir resultados de ambas variables.
+6)Se returna 0.
+
+ Ejercicio 5:
+1)Declarar una variable de tipo char con un corchete para darle un valor a la cantidad de letras posibles para el nombre que se le dara al dinsaurio.
+2)Declarar cuatro variables de tipo float.
+3)Recibir y guardar datos
+4)Calcular la variable peso como libras por 0.4
+5)Imprimir la variable.
+6)Calcular la variable longitud como pies por 0.3048.
+7)Imprimir la variable.
+8)Imprimir por pantalla el nombre asignado al dinosaurio. 
+9)Se returna 0.
+
+ Ejercicio 6:
+1)Declarar tres variables de tipo int.
+2)Recibir 
+3)Guardar datos.
+4)Calcular las variables del galon y el precio.
+5)Imprimir las variables entregando el precio total.
+6)Se returna 0.
+
+ Ejercicio 7:
+1)Declarar dos variables de tipo int.
+2)Calcular una variable dia como 86400 lo que corresponde a la cantidad de segundos que hay en un dia.
+3)Recibir y guardar datos
+4)Calcular la variable segundos como dias por los segundos que corresponden a un dia.
+5)Imprimir resultados de la variable.
+6)Se returna 0.
+
+ Ejercicio 8:
+1)Declarar dos variables de tipo float.
+2)Recibir
+3)Guardardatos
+4)Calcular la variable del ejercicio.
+4)Imprimir el resultado de la variable.
+6)Se returna 0. 
+
+ Ejercicio 9:
+1)Declarar tres variables de tipo int.
+2)Declarar una variable de tipo float.
+3)Recibir y guardar datos
+4)Calcular la variable de comision como ventas por el porcentaje a obtener de la misma comision.
+5)Calcular la variable del sueldo total.
+6)Imprimir resultados de ambas variables.
+7)Se returna 0.
+
+ Ejercicio 10:
+1)Declarar dos variables de tipo int.
+2)Declarar una variable de tipo float.
+3)Recibir y guardar datos
+4)Calcular la variable costo boleto como el costo de los kilometros por los kilometros a recorrer.
+5)Imprimir resultados de ambas variables.
+6)Se returna 0.
